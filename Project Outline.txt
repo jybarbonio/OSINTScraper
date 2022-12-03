@@ -1,0 +1,18 @@
+On startup window options:
+	Description: will search for coordinate or placename data ideally related to military incidents
+	- Country/Region name for scaper to focus on
+	- timeframe of posts (i.e. Tweet post range)
+	
+Misc features:
+	- occurances by Twitter account (this will find people who post regular update/contents on a conflict)
+	
+	
+Twitter dev API for OSINTGeographicScraper https://developer.twitter.com/en/portal/projects/1598986416247123968/apps:
+	Twitter API keys:
+		Abe0jFUWXLmgmLd1pZvwF2Mrc
+		
+	API Key Secret:
+		iWYzZiIZlvS3I8yalWQuDCVXoCu1kKFgVG6nFw0G2AOyQeH4Yz
+		
+	Bearer Token:
+		AAAAAAAAAAAAAAAAAAAAAG8IkAEAAAAAID%2Fzk3c6BmYyqaG7pnLvGUfm7rQ%3DjKUSIykXH3IR85pTJxxzEO4v7lb1XEohlTl7bqqfWxE6z6vMQ6
